@@ -2,17 +2,17 @@
   "basics": {
     "name": "Peter Bellinger",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/peter-bel.png",
     "email": "peterbel@hawaii.edu",
     "phone": "808-498-9774",
     "website": "https://peter-bel.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "peter-bel", "url": "http://https://peter-bel.github.io/" },
+      { "network": "linkedin", "username": "Peter Bellinger", "url": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqZy0eLWsRW6xOcFuMyjwig%3D%3D" },
+      { "network": "discord", "username": "turtleenergy.", "url": "https://discordapp.com/users/1033" },
+      { "network": "instagram", "username": "sub_optimal_entity", "url": "https://www.instagram.com/sub_optimal_entity?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" }
     ]
   },
   "interests": [
