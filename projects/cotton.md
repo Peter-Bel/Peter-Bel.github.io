@@ -11,7 +11,9 @@ labels:
 summary: "A metroidvania platformer game focused on defeating powerful monsters."
 ---
 
-<img class="img-fluid" src="../img/cotton/ly_converted_image.png">
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/cotton/ly_converted_image.png">
+</div>
 
   Lycoris is a lengthy metroidvania platformer game that I developed with my friend Joana back in high school. This game project took many months to build and has helped me develop as a programer. 
   
