@@ -13,7 +13,7 @@ labels:
 summary: "A project that involved programming commands for Nao Robots."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/naoSURF2023.png">
 
 In Spring 2023, I participated in the robotics program at Kapi'olani Community College. This project had us program Nao Robots to do certain tasks.  
 
