@@ -12,7 +12,7 @@ labels:
   - Art
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="img-fluid" src="../img/difficulty/degree_difficulty.jpg">
 
 
 
