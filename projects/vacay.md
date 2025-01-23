@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/nao_robot.jpg
+image: img/cotton/nao_robot_f.jpg
 title: "Nao Robots"
 date: 2023
 published: true
