@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/lylmg2.png
 title: "Lycoris"
-date: 2022-03-15
+date: 2022
 published: true
 labels:
   - GameMakerStudio
