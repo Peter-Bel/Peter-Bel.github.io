@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/SH_LY_22.png width="400px"
+image: img/cotton/SH_LY_f.png
 title: "Lycoris"
 date: 2022
 published: true
