@@ -7,11 +7,12 @@ date: 2025-01-21
 published: true
 labels:
   - Programming
+  - Discovery
+  - Self Improvement
+  - Art
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-
 
 
 	Computer science has become a powerful vehicle for innovative technologies and creative thinking. My personal journey through the field has been nothing but challenging, however, in return it has allowed me to better my critical thinking and create meaningful projects. I have especially engaged in game development and software development, and the progression I have made makes me motivated for the future. 
@@ -23,4 +24,3 @@ labels:
  My coding journey has allowed me to grow and create a lot of meaningful things. It’s from these experiences that keep me motivated to grow and develop future projects, and I’d love to work hard with others for this endevor. 
 
 
-## Okay!
