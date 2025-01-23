@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+
 
 
 	Computer science has become a powerful vehicle for innovative technologies and creative thinking. My personal journey through the field has been nothing but challenging, however, in return it has allowed me to better my critical thinking and create meaningful projects. I have especially engaged in game development and software development, and the progression I have made makes me motivated for the future. 
