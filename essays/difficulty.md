@@ -16,11 +16,7 @@ labels:
 
 
 
-a.
-
-
-
-	Computer science has become a powerful vehicle for innovative technologies and creative thinking. My personal journey through the field has been nothing but challenging, however, in return it has allowed me to better my critical thinking and create meaningful projects. I have especially engaged in game development and software development, and the progression I have made makes me motivated for the future. 
+ Computer science has become a powerful vehicle for innovative technologies and creative thinking. My personal journey through the field has been nothing but challenging, however, in return it has allowed me to better my critical thinking and create meaningful projects. I have especially engaged in game development and software development, and the progression I have made makes me motivated for the future. 
 	
  Through class and personal projects, I’ve gained a lot of experience in Java, Python, C++, and HTML. Each language is unique and challenging in their own ways. However, they are all capable of dealing with logisitical computation and can be used to solve many problems. While some of the first things I learned like sorting algorithms felt simple, the more I study the more complicated the problems become. I’ve initially struggled with the object oriented coding of java. But in time, the language became easier and easier to comprehend. Using objects in java, I created a fishing simulator that can keep track of fish data. I’ve also practiced extensively on recursive functions through hackerrank and other programming platforms. 
 	
