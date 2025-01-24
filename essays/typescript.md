@@ -22,7 +22,7 @@ While very similar to JavaScript, there are many important differences between J
 
 # Work through WODs
 
-One of the first WODs I worked on was a simple algorithm that detects if a string is fully made of unique characters. Even with this simple algorithm, there's a clear difference in how functions are initialized. The TypeScript code uses Collins to specify the static data type used while JavaScript doesn’t. But, other than that, the code was quite similar to JavaScript and easy to get used to. Here’s the code in full:
+One of the first WODs I worked on was a simple algorithm that detects if a string is fully made of unique characters. Even with this simple algorithm, there's a clear difference in how functions are initialized. The TypeScript code uses annotations to specify the static data type used while JavaScript doesn’t. But, other than that, the code was quite similar to JavaScript and easy to get used to. Here’s the full code documentation:
 
 ```cpp
 function isUnique(str: string): boolean {
