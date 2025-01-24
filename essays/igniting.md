@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/typeS_im.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typeS_im.png">
 
 I have never used Typescript in all my programming experience. But, so far Typescript seems to be an intuitive userfriendly programming language. When using the language, I felt it was most similar to JavaScript. This tracks as I would learn that Typescript is a syntatic superset of JavaScript. 
 
