@@ -26,12 +26,8 @@ function isUnique(str: string): boolean {
         if (seen.get(l)) return false;
         else seen.set(l,true);
     }
-
-
     return true;
 }
-
-
 console.log(isUnique('abcde'));  // prints true
 console.log(isUnique('abcdea')); // prints false
 ```
