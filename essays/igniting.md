@@ -18,7 +18,7 @@ While very similar to JavaScript, there are many important differences between J
 
 One of the first WODs I worked on was a simple algorithm that detects if a string is fully made of unique characters. 
 
-'''
+```cpp
 function isUnique(str: string): boolean {
     const seen: Map<string, boolean> = new Map();
     for (let i = 0; i < str.length; i ++) {
@@ -34,6 +34,6 @@ function isUnique(str: string): boolean {
 
 console.log(isUnique('abcde'));  // prints true
 console.log(isUnique('abcdea')); // prints false
-'''
+```
 
 
