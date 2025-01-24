@@ -8,6 +8,8 @@ published: true
 labels:
   - Programing
   - Learning
+summary: "An essay detailing my experience working with Typescript."
+projecturl: https://peter-bel.github.io/essays/typescript.html
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typeS_im.png">
