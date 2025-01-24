@@ -39,3 +39,4 @@ So far, the WODs have been interesting and simple to learn, and the “athletic 
 
 # Final thoughts
 
+From my short time learning, I found Typescript to be an intuitive and useful programming language. It’s similar to other languages I know, but it’s also different enough to hold its own unique utility. I hope to further my abilities with this language and utilize it effectively in the future. 
