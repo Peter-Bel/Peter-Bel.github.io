@@ -1,19 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Reflection on Typescript Bootcamp"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2023-01-23
+published: true
 labels:
-  - Software Engineering
+  - Programing
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/typeS_im.png">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+I have never used Typescript in all my programming experience. But, so far Typescript seems to be an intuitive userfriendly programming language. When using the language, I felt it was most similar to JavaScript. This tracks as I would learn that Typescript is a syntatic superset of JavaScript. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+While very similar to JavaScript, there are many important differences between JavaScript and Typescript. Most notably, the syntax and compatibility of both languages work a bit differently. Typescript is statically typed while JavaScript is dynamically typed. This means that variables in Typescript must be declared when they’re created, but in JavaScript, the variable doesn’t have to be declared. Another major difference that I’ve yet to fully experience with is that Typescript can compile into JavaScript. This effectively allows the user to develop a program in both languages which can speed up a lot of the programming process. I have yet to use this utility of Typescript, but I feel like this makes the language quite effective from a software engineering standpoint. Programming in Typescript is also programming in JavaScript, and with the support tools provided to the Typescript language, it can improve the overall code quality of a project.  
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
