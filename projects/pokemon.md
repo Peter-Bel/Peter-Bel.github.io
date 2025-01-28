@@ -9,6 +9,7 @@ labels:
   - Games
   - Java 
 summary: "This project had me create a java object class that stored Pokemon data."
+projecturl: https://peter-bel.github.io/essays/pokemon.html
 ---
 
 <div class="text-center p-4">
