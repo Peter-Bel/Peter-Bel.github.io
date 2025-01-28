@@ -11,7 +11,7 @@ labels:
   - Choreographe
   - Ros
 summary: "A project that involved programming commands for Nao Robots."
-projecturl: https://peter-bel.github.io/essays/nao.html
+projecturl: https://peter-bel.github.io/projects/nao.html
 ---
 
 <img class="img-fluid" src="../img/vacay/naoSURF2023.png">
