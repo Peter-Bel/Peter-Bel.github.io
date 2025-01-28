@@ -9,6 +9,7 @@ labels:
   - GameMakerStudio
   - GameJolt
 summary: "A metroidvania platformer game focused on defeating powerful monsters."
+projecturl: https://peter-bel.github.io/essays/lycoris.html
 ---
 
 <div class="text-center p-4">
