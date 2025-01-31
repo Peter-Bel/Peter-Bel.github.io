@@ -10,8 +10,7 @@ labels:
   - Answers
   - StackOverflow
 ---
-
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/sdumb.jpg">
+<img width="300px" class="img-fluid" src="../img/smart-questions/sdumb.jpg">
 
 ## Is there such a thing as a stupid question?
 
