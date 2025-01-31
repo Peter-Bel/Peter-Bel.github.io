@@ -15,85 +15,54 @@ labels:
 
 ## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+In many classes and fields, people might say that there are no stupid questions, and sometimes I think that's true. Sometimes people hesitate to ask simple and obvious questions even though they could be helpful. Sometimes "stupid questions" can be the smartest questions. But sometimes, a question can feel like a chore. Some questions feel like they turn productive discussions into a slog that benefits nobody. This is particularly evident in programming cites like Stack Overflow, where vague or poorly framed questions can hinder rather than help. In such a complicated and treacherous field, asking the right questions can be the smartest thing one can do.  
 
-## What’s a smart question?
+## What makes a question unproductive?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Sometimes questions create more questions, and in programming this is especially true. Basic questions like "what's wrong with this code," or "how do you impliment this" don't give a lot of information. The person responding the question might not know what the original poster is trying to do or how much they know about the subject. Implementing specific functions can look completely different depending on what the goal of the project is. This is why it's important to include a specific goal, a detailed explanation of the problem, and a summary of attempted solutions. This ensures that all readers can understand and help with a problem. 
+In Stackflow, there are many instances of both good and bad questioning. In order to harbor a productive and nuanced discussion, it's important to analyze these examples. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+## Productive Question
 
+The following is a question posted to Stack Overflow:
 ```
-Q: python date of the previous month
+Why does HTML think “chucknorris” is a color?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+Why do certain random strings produce colors when entered as background colors in HTML?
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+For example, bgcolor="chucknorris" produces a red background:
 
-I have solved this trouble in bash with:
+<body bgcolor="chucknorris"> test </body>
 
-echo $(date -d"3 month ago" "+%G%m%d")
+Conversely, bgcolor="chucknorr" produces a yellow background:
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+<body bgcolor="chucknorr"> test </body>
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+This holds true across various browsers and platforms. What’s going on here?
 ```
+Source: https://stackoverflow.com/questions/79401235/use-ternary-relationship-or-complex-attribute 
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+This is a good example of a productive question. Not just because I find the subject to be humorous, but also because there's a clear goal behind the problem and a clear explanation of the users experience. The examples also reflect the question and further shows the reader what's being worked on. This question is also rather small but that's all that's needed to make the question good. The core tenants of having a goal, examples, and user details makes this question good. 
 
+## Unproductive Question
+
+The following is a question posted to Stack Overflow:
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+use ternary relationship or complex attribute? [closed]
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
 
-Like this:
+I am creating the ERD of my Job recruitment system.
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+In the Apply relationship is applicationStages drawn and mapped to reflect that the applicationStages should only be visible once an applicant has applied to a job and was shortlisted by a recruiter to start the interviewing process?
 
+Should the ApplicationStages be represented as a weak entity on this relationship, or a complex attribute?
 ```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+Source: https://stackoverflow.com/questions/79401235/use-ternary-relationship-or-complex-attribute 
 
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+This is a rather short question that didn't detail all that much about the problem. While the user somewhat specified their goal, there's no background information about the project or any coding examples. Thus, the reader can't gain a full grasp on what the user is trying to accomplish. This was pointed out by one user named philipxy, they wrote: "Ask 1 specific researched non-duplicate question. Include relevant DDL. PS With no specification a design cannot be evaluated. PS How are you stuck evaluating/deciding, following what design method?" 
+It's difficult to give feedback when there's a lack of information, and as the commenter pointed out, there's no specific infomation or a design method that they could follow. 
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+As people seeking guidence, it's important to make our questions clear to the reader. Sometimes questions only lead to more questions, and that's a confusing experience that burdens the people trying to help. It's important to provide a clear goal, provide background for the issue, and oftentimes some examples or user experiences so that people can better understand how to solve a problem. By working in this mannor, we can create a more harmonious and productive discussion around programming as a whole. That's why, it's important to ask smart questions.
