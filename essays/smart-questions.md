@@ -18,7 +18,7 @@ In many classes and fields, people might say that there are no stupid questions.
 
 ## What makes a question unproductive?
 
-Sometimes questions create more questions, and in programming this is especially true. Basic questions like "what's wrong with this code," or "how do you impliment this" don't give a lot of information. The person responding to the question might not know what the original poster is trying to do or how much they know about the subject. Implementing specific functions can look completely different depending on what the goal of the project is. This is why it's important to include a specific goal, a detailed explanation of the problem, and a summary of attempted solutions. This ensures that all readers can understand and help with a problem. 
+Sometimes questions create more questions, and in programming this is especially true. Basic questions like "what's wrong with this code," or "how do you impliment this" don't give a lot of information. The person responding to the question might not know what the original poster is trying to do or how much they know about the subject. Implementing specific functions can look completely different depending on what the goal of the project is. This is why it's important to include a specific goal, a detailed explanation of the problem, and an example or summary of attempted solutions. This ensures that all readers can understand and help with a problem. 
 In Stackflow, there are many instances of both good and bad questioning. In order to harbor a productive and nuanced discussion, it's important to analyze these examples. 
 
 ## Productive Question
