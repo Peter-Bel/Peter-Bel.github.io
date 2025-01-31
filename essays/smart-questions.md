@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Questions and Not so Smart Ones"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2025-01-30
+published: true
 labels:
   - Questions
   - Answers
