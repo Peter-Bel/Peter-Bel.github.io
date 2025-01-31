@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "My vehicle of discovery is programing"
+title: "My vehicle of Discovery is Programing"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-21
 published: true
 labels:
   - Programming
-  - Discovery
-  - Self Improvement
+  - Learning
   - Art
 essayurl: https://peter-bel.github.io/essays/programing.html
 ---
