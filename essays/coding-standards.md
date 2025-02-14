@@ -15,6 +15,8 @@ essayurl: https://peter-bel.github.io/essays/coding-standards.md
 
 
 
+
+
  It’s one thing to write code that’s functional, but it’s another thing entirely to make code that’s functional and readable. 
  
  When I work alone, my code will often turn into a big mess of complicated jargon. Oftentimes . Writing code neatly is an important and complementary skill to writing functional code. It makes programs more readable and easier to work with. Thus, for the long term health of any project, it’s always good to write neat code. 
