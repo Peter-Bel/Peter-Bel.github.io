@@ -8,7 +8,7 @@ published: true
 labels:
   - Programming
   - Organization
-essayurl: https://peter-bel.github.io/essays/coding-standards.html
+essayurl: https://peter-bel.github.io/essays/coding-standards.md
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
@@ -17,7 +17,7 @@ essayurl: https://peter-bel.github.io/essays/coding-standards.html
 
  It’s one thing to write code that’s functional, but it’s another thing entirely to make code that’s functional and readable. 
  
- When I work alone, my code will often turn into a big mess of complicated jargon. This is often because I’m working in the pursuit of short term functionality without realizing the problems I’m creating in the future. Writing code neatly is an important and complementary skill to writing functional code. It makes programs more readable and easier to work with. Thus, for the long term health of any project, it’s always good to write neat code. 
+ When I work alone, my code will often turn into a big mess of complicated jargon. Oftentimes . Writing code neatly is an important and complementary skill to writing functional code. It makes programs more readable and easier to work with. Thus, for the long term health of any project, it’s always good to write neat code. 
 
  When working in VSCode, I was able to use the ESLint extension for the first time. ESLint acts to standardize code into a specific and readable format. Anytime code is written in a way that doesn’t align with the ESLint formatting, the plugin will mark the section as an error and comment on the type of error made. 
 
