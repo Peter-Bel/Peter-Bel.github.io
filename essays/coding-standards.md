@@ -11,8 +11,7 @@ labels:
 essayurl: https://peter-bel.github.io/essays/coding-standards.md
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
-
+<img width="300px" class="img-fluid" src="../img/eslint.png">
 
 
 
