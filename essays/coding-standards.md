@@ -24,9 +24,3 @@ essayurl: https://peter-bel.github.io/essays/coding-standards.html
  In terms of making code organized, this plugin works wonders. It’s consistent, always catching errors that often go unnoticed. It’s also easy to use and it always tells the user where the errors are. However, getting used to the plugin takes some time. It can be annoying to fix some of the errors the plugin marks. The feedback isn’t always super intelligible, and the errors could be something minor. For example, an error could be a misplaced space somewhere on a line, and that space might not be super noticeable. Sometimes, I might also mistake an error for a different kind of error. In such an event, I might make drastic unnecessary changes to my code before finding the original error. 
 
  It can sometimes be challenging to fix all errors that ESLint marks. However, with enough time these errors should become trivial to fix, and the utility of ESLint will pay dividends. It’s always difficult to work on a project that I haven’t worked on in a while, it’s also difficult to work on a project with someone else's code. Having ESLint standardize all code can make the process of reading code much easier. 
-
-
-
-
-
-
