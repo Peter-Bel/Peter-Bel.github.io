@@ -12,7 +12,7 @@ summary: "Detailing my experience with HTML, CSS, and Bootstap 5."
 essayurl: https://peter-bel.github.io/essays/ui-frameworks.html
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typeS_im.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/html_css_boot.png">
 
 I have very limited experience with HTML and CSS, and I have absolutely no experience when it comes to using UI frameworks like Bootstrap 5. So, as one can imagine, my learning experience with HTML and Bootstrap 5 has been very difficult. HTML is a very unique langauge that takes a lot of adjustment, and Bootstrap 5 also take as much time to get used to as any other langauge. 
 
