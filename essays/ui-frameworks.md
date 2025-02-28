@@ -15,7 +15,7 @@ essayurl: https://peter-bel.github.io/essays/ui-frameworks.html
 
 <img width="200px" class="rounded float-start pe-4" src="../img/html_css_boot.png">
 
-I have very limited experience with HTML and CSS, and I have absolutely no experience when it comes to using UI frameworks like Bootstrap 5. So, as one can imagine, my learning experience with HTML and Bootstrap 5 has been very difficult. HTML and Bootstrap offer a very unique coding process so using both tools has been a very insightful experience.
+I have very limited experience with HTML and CSS, and I have absolutely no experience when it comes to using UI frameworks like Bootstrap 5. So, as one can imagine, my learning experience with HTML and Bootstrap 5 has been very difficult. However, both HTML and Bootstrap offer a very unique coding process. Working with both tools has given me a lot of insight into web page building.
 
 # HTML and CSS
 
