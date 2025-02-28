@@ -23,22 +23,29 @@ My experience programming in base HTML and CSS has been rather straightforward. 
 
 # Bootstrap 5
 
-One of the first WODs I worked on was a simple algorithm that detects if a string is fully made of unique characters. Even with this simple algorithm, there's a clear difference in how functions are initialized. The TypeScript code uses annotations to specify the static data type used while JavaScript doesn’t. But, other than that, the code was quite similar to JavaScript and easy to get used to. Here’s the full code documentation:
+Learning Bootstrap on the other hand was much weirder. Some of the documentation seemed simple at first, but I don't think I'm able to properly utilize it. For example, the Bootstrap containers seem useful. They are simple methods of sectioning a website. But, I've yet to find much utility for the container function. I've been able to format most of my websites by adjusting the margin, padding, width, height, and coordinates of different elements. I became familiar with these elements and the documentation for them, I'm not so familiar with the Bootstrap containers. Bootstrap also has a ton of classes and alts that can adjust how things are displayed. However, being so unfamiliar with the UI means that I find these things more distracting. I have trouble finding documentation for the adjustments I want and I find myself switching to css often. 
+
+That isn't to say I find Bootstrap to be useless. Some of the options available are really helpful. Bootstrap has a wide variety of popular icons that can be easily programmed into a website. For example, the following code: <i class="bi bi-0-circle"></i> adds a circle icon into the website. This is really useful as I would otherwise try to implement these symbols by adding images which is really inconvenient. The navbar function is also extremely helpful. I have no idea how I'd make a navbar in raw HTML, but this UI tool simplifies things so much that it's painless to implement. The following is an example of the Bootstrap navbar code:
 
 ```cpp
-function isUnique(str: string): boolean {
-    const seen: Map<string, boolean> = new Map();
-    for (let i = 0; i < str.length; i ++) {
-        const l = str[i];
-        if (seen.get(l)) return false;
-        else seen.set(l,true);
-    }
-    return true;
-}
-console.log(isUnique('abcde'));  // prints true
-console.log(isUnique('abcdea')); // prints false
+    <!-- Navbar -->
+        <nav class="navbar navbar-expand-sm navbar-dark bg-light py-3">
+            <img src="Arise-Constructions-Remodels.webp" class="" alt="logo" style="height: 40px;" id="head">
+            <div class="container">
+                <ul class="bar navbar-nav justify-content-center py-3" style="font-size: 15px; color: darkslategrey;">
+                    <ul>Home</ul> 
+                    <ul class="dropdown-toggle">About</ul> 
+                    <ul class="dropdown-toggle">Services</ul> 
+                    <ul>Testimonials</ul> 
+                    <ul class="dropdown-toggle">Portfolio</ul> 
+                    <ul>Blog</ul> 
+                    <ul>Contact</ul> 
+                    <ul class="nav-item"><i class="bi bi-moon-fill"></i></ul>
+                </ul>
+            </div>
+        </nav>
 ```
-So far, the WODs have been interesting and simple to learn, and the “athletic programming” format that the WODs enable helps to gain experience in fast programming. It’s a great form of practice to improve the speed and memory at which I can write code. Since better speed is rewarded, there’s a greater incentive to write quickly and activate my computational neural pathways.
+The above code uses the <nav> statement to create a navbar. This simplifies things a lot since every other statement nested in the <nav> brackets are contained in the navbar and organized accordingly.
 
 # Experiences and Challenges
 
