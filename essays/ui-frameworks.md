@@ -15,11 +15,11 @@ essayurl: https://peter-bel.github.io/essays/ui-frameworks.html
 
 <img width="200px" class="rounded float-start pe-4" src="../img/html_css_boot.png">
 
-I have very limited experience with HTML and CSS, and I have absolutely no experience when it comes to using UI frameworks like Bootstrap 5. So, as one can imagine, my learning experience with HTML and Bootstrap 5 has been very difficult. HTML is a very unique langauge that takes a lot of adjustment, and Bootstrap 5 also take as much time to get used to as any other langauge. 
+I have very limited experience with HTML and CSS, and I have absolutely no experience when it comes to using UI frameworks like Bootstrap 5. So, as one can imagine, my learning experience with HTML and Bootstrap 5 has been very difficult. HTML is a very unique language so programming with it has been a very insightful experience. 
 
 # HTML and CSS
 
-While very similar to JavaScript, there are many important differences between JavaScript and TypeScript. Most notably, the syntax and compatibility of both languages work a bit differently. TypeScript is statically typed while JavaScript is dynamically typed. This means that variables in TypeScript must be declared when they’re created, but in JavaScript, the variable doesn’t have to be declared. There are also minor differences in syntax, such as how mathematical equality is handled: JavaScript uses “==” for loose equality and “===” for strict equality, while TypeScript emphasizes static type-checking and often enforces stricter comparisons. Another major difference is that TypeScript can compile into JavaScript. This effectively allows the user to develop a program in both languages which can speed up a lot of the programming process. I have yet to use this feature of TypeScript, but I feel like this makes the language quite effective from a software engineering standpoint. Programming in TypeScript is also programming in JavaScript, and with the support tools provided to the TypeScript language, it can improve the overall code quality of a project.
+My experience programming in base HTML and CSS has been rather straightforward. Getting it set up in visual studio was rather simple, and most WOD's (class assignments) felt very manageable to complete. I also realized that I was slowly progressing my programming abilities with each assignment. One of my assignments was a 3-parter that involved coding a browser history website. My completion time of each part got quicker and quicker, 20 minutes for part 1, 14 minutes for part 2, and 13 minutes for part 3. With each assignment, I was getting quite comfortable in the language. 
 
 # Bootstrap 5
 
