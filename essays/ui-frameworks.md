@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI with purpose"
+title: "The fog of UI in HTML"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
@@ -47,8 +47,6 @@ That isn't to say I find Bootstrap to be useless. Some of the options available 
 ```
 The above code uses the <nav> statement to create a navbar. This simplifies things a lot since every other statement nested in the <nav> brackets are contained in the navbar and organized accordingly.
 
-# Experiences and Challenges
-
 # Final thoughts
 
-I don't find much utility in using UI frameworks at the moment. I've yet to learn how to properly use all the main functions provided by HTML and CSS. This makes implimenting a different UI framework both difficult and confusing. 
+I don't find much utility in using UI frameworks at the moment. I've yet to learn how to properly use all the main functions provided by HTML and CSS. This makes implimenting a different UI framework both difficult and confusing. However, I do find that they can still provide some utility in my code. If I had a greater grasp of HTML and Bootstrap, I think it would make implimenting certain functions much easier. For now, it's a confusing yet useful tool in my code. 
