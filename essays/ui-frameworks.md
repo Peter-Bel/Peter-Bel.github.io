@@ -6,8 +6,9 @@ title: "UI with purpose"
 date: 2025-02-27
 published: true
 labels:
-  - html
-  - css
+  - HTML
+  - CSS
+  - Bootstrap 5
 summary: "Detailing my experience with HTML, CSS, and Bootstap 5."
 essayurl: https://peter-bel.github.io/essays/ui-frameworks.html
 ---
