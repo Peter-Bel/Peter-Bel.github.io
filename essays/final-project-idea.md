@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project"
+title: "Final Project: Flush Finder"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-01
 published: true
@@ -13,10 +13,9 @@ essayurl: https://peter-bel.github.io/essays/final-project-idea.md
 <img width="300px" class="img-fluid" src="../img/eslint.png">
 
 
+Flush Finder
 
-
- It’s one thing to write code that’s functional, but it’s another thing entirely to make code that’s  
-functional and readable. 
+One problem with an everexpanding campus is the 
 
  When I work alone, my code will often turn into a big mess of complicated jargon. This happens for two main reasons. For one, it’s difficult to keep a level of consistency with every function, variable, algorithm, statement, or other aspect of the code. Human errors are inevitable in any coding project. I also have problems with coding for the short term. Sometimes I’ll focus on getting a piece of code to work even if it looks ugly. This can lead to problems down the line as discerning what a function is supposed to do can get hard to tell. Writing code neatly is an important and complementary skill in functional programming. It makes projects more readable and easier to work with. Thus, for the long term health of any project, it’s always good to write neat code. 
 
