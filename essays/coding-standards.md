@@ -11,8 +11,6 @@ labels:
 essayurl: https://peter-bel.github.io/essays/coding-standards.md
 ---
 
-<img width="300px" class="img-fluid" src="../img/eslint.png">
-
 
 
 
@@ -24,8 +22,6 @@ functional and readable.
  When working in VSCode, I was able to use the ESLint extension for the first time. ESLint acts to standardize code into a consistent and readable format. Anytime code is written in a way that doesn’t align with the ESLint formatting, the plugin will mark the section as an error and comment on the type of error made. 
 
  In terms of making code organized, this plugin works wonders. It’s consistent, catching errors that easily go unnoticed. It’s also easy to use and it always tells the user where the errors are. However, getting used to the plugin takes some time. It can be annoying to fix some of the errors the plugin marks. The feedback isn’t always super intelligible, and the errors could be something minor. For example, an error could be a misplaced space somewhere on a line, and that space might not be super noticeable. Sometimes, I might also mistake an error for a different kind of error. Thankfully, the engine is also capable of fixing most errors automatically. Clicking the highlighted error area will provide options to standardize the text. It’s not capable of fixing everything, so it can still pose a challenge to figure out the error. But, overall the plugin is very helpful.
-
-<img width="600px" class="img-fluid" src="../img/lintCode.png">
 
  In the above screenshot, there’s some pieces of code that are underlined red. These areas don’t align with the ESLint standard and should be adjusted. Sometimes this is easy, but some of the errors might be difficult to notice or change. 
 
