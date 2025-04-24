@@ -10,7 +10,7 @@ labels:
 essayurl: https://peter-bel.github.io/essays/repeating-good-solutions.html
 ---
 
-<img width="300px" class="img-fluid" src="../img/eslint.png">
+<img width="200px" class="img-fluid" src="../img/treeCodeImg.png">
 
 
 Designing Good Solutions
