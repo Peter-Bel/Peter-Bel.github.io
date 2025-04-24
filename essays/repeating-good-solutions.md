@@ -10,7 +10,7 @@ labels:
 essayurl: https://peter-bel.github.io/essays/repeating-good-solutions.html
 ---
 
-<img width="200px" class="img-fluid" src="../img/treeCodeImg.png">
+<img width="300px" class="img-fluid" src="../img/treeCodeImg.png">
 
 
 Designing Good Solutions
@@ -22,7 +22,7 @@ To complete these WODs, I often rely on a light version of a design pattern stra
 
 I’ve also applied some aspects of design pattern thinking for my personal game projects. Oftentimes there’s a recurring structure when adding certain game mechanics. When making an interactive game with a lot of objects, many items will share common properties and labels. For instance, There could be two food items which can interact with player health variables, while there’s many weapon items that deal damage. It would be very time consuming and complicated to program these items individually, however, by using a design pattern these could be more easily implemented. There could be a main dataset that stores all the variables that make an item distinct. It stores the type of item, the stats of an item, its display images, and so on. By doing this, implementing new items can be as simple as creating a new dataset entry. 
 
-<img width="400px" class="img-fluid" src="../img/gameItemList.jpg">
+<img width="300px" class="img-fluid" src="../img/gameItemList.jpg">
 
 The above image shows how game items could use distinct labeling. For game that the image is based on, this labelling effects the mechanics of each item as well as their economic value.
 
