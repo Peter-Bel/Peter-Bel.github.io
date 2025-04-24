@@ -7,6 +7,7 @@ date: 2025-04-23
 published: true
 labels:
   - Programming
+  - Design Patterns
 essayurl: https://peter-bel.github.io/essays/repeating-good-solutions.html
 ---
 
