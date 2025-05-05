@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Repeating Good Solutions"
+title: "My AI Reflective Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-23
 published: true
 labels:
   - Programming
   - Design Patterns
-essayurl: https://peter-bel.github.io/essays/repeating-good-solutions.html
+essayurl: https://peter-bel.github.io/essays/AI-reflective-experience.html
 ---
 
 <img width="300px" class="img-fluid" src="../img/treeCodeImg.png">
