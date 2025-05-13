@@ -64,8 +64,8 @@ There are many AI algorithms that one could use. ChatGPT, Gemini AI, and DeepSee
 ## Overall
 - Overall, I've used a lot of AI to help with this class. I've mostly utilized chatGPT and Copilot to help me fix, improve, and write code.
 
-<img width="100px" class="img-fluid" src="../img/CoPilot_Img.png">
-<img width="100px" class="img-fluid" src="../img/chatGPT_Img.png">
+<img width="100px" class="img-thumbnail" src="../img/CoPilot_Img.png">
+<img width="100px" class="img-thumbnail" src="../img/chatGPT_Img.png">
 
 
 # Outside of class. 
@@ -91,4 +91,3 @@ I think that AI is a useful tool that can be helpful, but just as easily unprodu
 Reflecting on my experience with AI in this software engineering course, I recognize its dual role as both a powerful aid and a potential crutch. Tools like GitHub Copilot and ChatGPT have aided me when doing repetitive tasks, debugging code, and providing quick fixes. This is particularly true for time-sensitive assignments like WODs and the final project. However, overreliance on AI occasionally hindered my learning, as sometimes I accepted whatever an AI gave me without engaging with it. Moving forward, I hope that more traditional methods of learning are first applied so that a person can experience and fully understand their coding. I hope they are then given the freedom to use AI to aid their work. AI is great for reinforcement, but a truly competent programmer won’t become reliant on it. 
 
 
-<img width="300px" class="img-fluid" src="../img/gameItemList.jpg">
