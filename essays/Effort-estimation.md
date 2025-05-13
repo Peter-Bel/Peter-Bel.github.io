@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Gauging Effort"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-23
+date: 2025-05-10
 published: true
 labels:
   - Programming
