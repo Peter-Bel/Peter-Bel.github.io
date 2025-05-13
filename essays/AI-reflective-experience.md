@@ -64,8 +64,8 @@ There are many AI algorithms that one could use. ChatGPT, Gemini AI, and DeepSee
 ## Overall
 - Overall, I've used a lot of AI to help with this class. I've mostly utilized chatGPT and Copilot to help me fix, improve, and write code.
 
-<img width="200px" class="img-fluid" src="../img/CoPilot_Img.jpg">
-<img width="200px" class="img-fluid" src="../img/chatGPT_Img.png">
+<img width="100px" class="img-fluid" src="../img/CoPilot_Img.png">
+<img width="100px" class="img-fluid" src="../img/chatGPT_Img.png">
 
 
 # Outside of class. 
