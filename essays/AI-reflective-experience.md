@@ -11,7 +11,7 @@ labels:
 essayurl: https://peter-bel.github.io/essays/AI-reflective-experience.html
 ---
 
-<img width="300px" class="img-fluid" src="../img/treeCodeImg.png">
+<img width="300px" class="img-fluid" src="../img/AI_brain.jpg">
 
 # AI technology 
 
