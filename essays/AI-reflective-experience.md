@@ -61,8 +61,11 @@ There are many AI algorithms that one could use. ChatGPT, Gemini AI, and DeepSee
 ## Quality assurance 
 - Quality assurance has been very difficult for me, which is why I’ve often relied on AI. It’s important to read and check which parts of the code are errors, but it's really difficult sometimes to gauge what aspects are missing. Sometimes some other file in a completely different directory will be the source of all the errors. This is often hard to spot but it’s easier with CoPilot. But, sometimes AI will misunderstand or give an incorrect answer to an issue. In such cases I’ll also often check Stack Overflow and other chat rooms for any documentation. 
 
+## Overall
+- Overall, I've used a lot of AI to help with this class. I've mostly utilized chatGPT and Copilot to help me fix, improve, and write code.
 
-
+<img width="200px" class="img-fluid" src="../img/CoPilot_Img.jpg">
+<img width="200px" class="img-fluid" src="../img/chatGPT_Img.png">
 
 
 # Outside of class. 
