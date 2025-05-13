@@ -89,5 +89,3 @@ I think that AI is a useful tool that can be helpful, but just as easily unprodu
 
 ## VIII. Conclusion:
 Reflecting on my experience with AI in this software engineering course, I recognize its dual role as both a powerful aid and a potential crutch. Tools like GitHub Copilot and ChatGPT have aided me when doing repetitive tasks, debugging code, and providing quick fixes. This is particularly true for time-sensitive assignments like WODs and the final project. However, overreliance on AI occasionally hindered my learning, as sometimes I accepted whatever an AI gave me without engaging with it. Moving forward, I hope that more traditional methods of learning are first applied so that a person can experience and fully understand their coding. I hope they are then given the freedom to use AI to aid their work. AI is great for reinforcement, but a truly competent programmer won’t become reliant on it. 
-
-
