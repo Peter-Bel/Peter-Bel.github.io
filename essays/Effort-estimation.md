@@ -11,7 +11,7 @@ labels:
 essayurl: https://peter-bel.github.io/essays/Effort-estimation.html
 ---
 
-<img width="300px" class="img-fluid" src="../img/AI_brain.jpg">
+<img width="300px" class="img-fluid" src="../img/TimeImg.jpg">
 
 # Effort Estimation in Programming Tasks
 
