@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My AI Reflective Experience"
+title: "Trials of Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-13
 published: true
@@ -13,7 +13,7 @@ essayurl: https://peter-bel.github.io/essays/Software-reflection
 
 <img width="300px" class="img-fluid" src="../img/AI_brain.jpg">
 
-# AI technology 
+# Trials of Software Development
 
 In the last couple of years, AI has improved immensely. This has had an especially large impact on education. AI is now capable of providing accurate answers to most class problems. This can make it easier to study and check answers, however, it’s also easy to overuse this technology. AI doesn’t necessarily mean the user is learning, in fact, oftentimes it means the opposite. Since AI can trivialize certain tasks, it’s often been used to bypass any learning requirement from the user's end. This remains the case for computer science as well. In order to analyze and reflect on my experience with AI, I’ll be going over some of the AI engines that exist and my experience using them. 
 There are many AI algorithms that one could use. ChatGPT, Gemini AI, and DeepSeek are all powerful AI engines with an active user base. These engines are also capable of analyzing code and making suggestions for changes. I've also used most of these languages to help with my code. However, these engines aren’t always the most accurate for programming. For computer science, CoPilot is often seen as one of if not the most powerful AI tool. This is because it’s both specialized for programming and can work as an extension for many coding programs. I’ve certainly used this engine a lot to improve my code. But, to fully reflect my usage of AI, I’ll analyze each section of my Computer Science class and gauge what my AI usage has looked like. This will hopefully provide insight into my relationship with this technology.
