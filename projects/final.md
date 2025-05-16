@@ -8,15 +8,18 @@ published: true
 labels:
   - Web Development
   - Vercel
+  - GitHub
 summary: "My 314 final project about UH Manoa clubs."
 projecturl: https://peter-bel.github.io/projects/final.html
 ---
 
+# Final Project: Club Organizers
+
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/cotton/ly_converted_image.png">
+  <img class="img-fluid" src="../img/cotton/FinalLandImg.png">
 </div>
 
-  Lycoris is a lengthy metroidvania platformer game that I developed with my friend Joana back in high school. In total, this project took about 6 months of work and required a lot of collaboration. I was the lead programmer and sprite artist of the project while Joana focused on level design and music.  
+My final project for my Software Engineering I class was a group project that involved implementing a webpage. This webpage would be capable of displaying all the organizations of UH Manoa, it would also be capable of adding and editing new and existing clubs. Up to this point, I've never implemented a wabpage to this scale. Thus, it was a challenging and intensive experience for me.  
   
   The game starts with the player character shackled and confined to a small room. Exploring the world from this point only leads to dangerous monsters and powerful bosses. However, it's not hopeless for the player. The player is capable of replenishing health by defeating enemies. There are also many large statues that can heal the player and unlock stat bonuses. As the game progresses, the player will gain more abilities turning this daunting world into one they can conquer.
 
