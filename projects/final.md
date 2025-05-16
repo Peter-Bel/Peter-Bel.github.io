@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/SH_LY_f.png
+image: img/logoClubImg.png
 title: "Club Organizers"
 date: 2025
 published: true
@@ -9,7 +9,7 @@ labels:
   - Web Development
   - Vercel
 summary: "My 314 final project about UH Manoa clubs."
-projecturl: https://peter-bel.github.io/img/logoClubImg.png
+projecturl: https://peter-bel.github.io/projects/final.html
 ---
 
 <div class="text-center p-4">
