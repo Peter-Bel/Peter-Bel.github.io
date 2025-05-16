@@ -13,6 +13,9 @@ summary: "My 314 final project about UH Manoa clubs."
 projecturl: https://peter-bel.github.io/projects/final.html
 ---
 
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/ClubOrgGitImg.png">
+</div>
 
 ## Introduction
 My final project for my Software Engineering I class was a group project that involved implementing a web page. This webpage would be capable of displaying all the organizations of UH Manoa, it would also be capable of adding and editing new and existing clubs. Up to this point, I've never implemented a webpage to this scale. Thus, it was a challenging experience for me. Here I'll cover the project step by step and everything I learned from it. 
