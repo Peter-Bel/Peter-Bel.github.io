@@ -34,4 +34,8 @@ Most members got to work programming. Kenji wrote a lot of the initial code, he 
 </div>
 
 
-Source: <a href="https://gamejolt.com/games/Lycoris/903344"><i class="large github icon "></i>GameJolt.com/games/Lycoris.</a>
+Project Page: <a href="https://club-organizers.github.io/"><i class="large github icon "></i>Club Organizers Project</a>
+
+GitHub: <a href="https://github.com/club-organizers"><i class="large github icon "></i>Club Organizers GitHub</a>
+
+Source: <a href="https://club-main-sandy.vercel.app/LandPage"><i class="large github icon "></i>Vercel Deployement</a>
