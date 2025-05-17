@@ -40,7 +40,8 @@ While I didn’t do much work for the login, I was able to work on the club data
 
 Creating a client: 
 - NEXT_PUBLIC_SUPABASE_URL = Vercel database url
-- NEXT_PUBLIC_SUPABASE_ANON_KEY = key to the database 
+- NEXT_PUBLIC_SUPABASE_ANON_KEY = key to the database
+
 ```
 import { createClient } from '@supabase/supabase-js';
 
@@ -56,6 +57,7 @@ Reading the database using the client:
 - Algorithm checks a user and reads the “role” and “club” sections from the same row
 - The “role” and “club” data are stored in the “data” variable
 - Logs errors if for whatever reason the data couldn’t be read
+
 ```
 const [currentUserRole, setCurrentUserRole] = useState<string | null>(null);
 const [currentUserClub, setCurrentUserClub] = useState<string | null>(null);
@@ -101,6 +103,7 @@ Code checks user role:
 - Simple if statement checks for admins and owners
 - Updates the data table through the .update command
 - Also updates the currentUserClub variable to the added club. This prevents owners from making multiple clubs
+
 ```
 // If the user is an OWNER, update their "club" column in the User table
 if ((currentUserRole === "OWNER" && currentUserClub === null) || currentUserRole === "ADMIN") {
